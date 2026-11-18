@@ -1,0 +1,3307 @@
+{
+  "previousYears": 254,
+  "sampleYears": 838,
+  "addedYears": [
+    -404,
+    -383,
+    -366,
+    -337,
+    -335,
+    -334,
+    -333,
+    -332,
+    -331,
+    -329,
+    -326,
+    -324,
+    -323,
+    -322,
+    -321,
+    -318,
+    -317,
+    -315,
+    -312,
+    -307,
+    -305,
+    -301,
+    -291,
+    -284,
+    -283,
+    -281,
+    -279,
+    -277,
+    -275,
+    -272,
+    -271,
+    -264,
+    -256,
+    -255,
+    -247,
+    -239,
+    -225,
+    -223,
+    -222,
+    -221,
+    -218,
+    -216,
+    -212,
+    -209,
+    -208,
+    -206,
+    -205,
+    -203,
+    -202,
+    -201,
+    -197,
+    -188,
+    -179,
+    -168,
+    -167,
+    -164,
+    -146,
+    -145,
+    -144,
+    -126,
+    -91,
+    -87,
+    -77,
+    -66,
+    -63,
+    -62,
+    -57,
+    -49,
+    -48,
+    -46,
+    -44,
+    -42,
+    -41,
+    -37,
+    -36,
+    -31,
+    -29,
+    -28,
+    -27,
+    -26,
+    -25,
+    -19,
+    -18,
+    -14,
+    6,
+    9,
+    14,
+    23,
+    43,
+    51,
+    68,
+    78,
+    84,
+    91,
+    106,
+    114,
+    117,
+    127,
+    154,
+    155,
+    156,
+    161,
+    165,
+    184,
+    192,
+    197,
+    207,
+    215,
+    219,
+    221,
+    224,
+    225,
+    238,
+    247,
+    261,
+    263,
+    265,
+    281,
+    283,
+    287,
+    299,
+    301,
+    306,
+    308,
+    311,
+    313,
+    324,
+    337,
+    338,
+    347,
+    353,
+    358,
+    367,
+    371,
+    373,
+    378,
+    383,
+    386,
+    387,
+    392,
+    394,
+    395,
+    396,
+    397,
+    402,
+    407,
+    414,
+    417,
+    421,
+    426,
+    439,
+    441,
+    443,
+    451,
+    452,
+    455,
+    458,
+    459,
+    462,
+    469,
+    475,
+    476,
+    477,
+    481,
+    523,
+    534,
+    535,
+    536,
+    546,
+    551,
+    552,
+    555,
+    561,
+    567,
+    569,
+    577,
+    581,
+    582,
+    587,
+    588,
+    589,
+    592,
+    601,
+    602,
+    606,
+    612,
+    617,
+    618,
+    619,
+    623,
+    626,
+    627,
+    628,
+    629,
+    632,
+    633,
+    634,
+    638,
+    641,
+    644,
+    647,
+    648,
+    651,
+    652,
+    656,
+    661,
+    662,
+    666,
+    668,
+    669,
+    674,
+    676,
+    677,
+    682,
+    692,
+    697,
+    698,
+    705,
+    718,
+    724,
+    732,
+    741,
+    744,
+    745,
+    749,
+    751,
+    755,
+    756,
+    757,
+    763,
+    768,
+    772,
+    775,
+    778,
+    783,
+    788,
+    793,
+    802,
+    806,
+    814,
+    825,
+    841,
+    842,
+    843,
+    844,
+    866,
+    869,
+    871,
+    875,
+    876,
+    878,
+    882,
+    884,
+    886,
+    887,
+    888,
+    892,
+    896,
+    898,
+    899,
+    901,
+    906,
+    907,
+    908,
+    909,
+    911,
+    916,
+    918,
+    922,
+    926,
+    927,
+    935,
+    936,
+    947,
+    959,
+    961,
+    962,
+    963,
+    966,
+    987,
+    988,
+    1003,
+    1015,
+    1018,
+    1028,
+    1031,
+    1032,
+    1034,
+    1038,
+    1044,
+    1046,
+    1054,
+    1056,
+    1066,
+    1072,
+    1085,
+    1094,
+    1099,
+    1111,
+    1115,
+    1125,
+    1126,
+    1139,
+    1147,
+    1152,
+    1169,
+    1171,
+    1172,
+    1177,
+    1188,
+    1192,
+    1194,
+    1195,
+    1201,
+    1202,
+    1203,
+    1204,
+    1205,
+    1206,
+    1207,
+    1216,
+    1227,
+    1234,
+    1235,
+    1236,
+    1241,
+    1256,
+    1258,
+    1259,
+    1261,
+    1271,
+    1272,
+    1278,
+    1279,
+    1285,
+    1287,
+    1288,
+    1293,
+    1294,
+    1299,
+    1305,
+    1314,
+    1326,
+    1333,
+    1335,
+    1336,
+    1344,
+    1351,
+    1352,
+    1363,
+    1367,
+    1368,
+    1369,
+    1371,
+    1375,
+    1385,
+    1392,
+    1393,
+    1395,
+    1401,
+    1402,
+    1407,
+    1415,
+    1422,
+    1428,
+    1429,
+    1431,
+    1432,
+    1438,
+    1452,
+    1453,
+    1454,
+    1459,
+    1463,
+    1464,
+    1468,
+    1475,
+    1479,
+    1482,
+    1487,
+    1491,
+    1492,
+    1493,
+    1497,
+    1501,
+    1502,
+    1503,
+    1507,
+    1508,
+    1511,
+    1512,
+    1516,
+    1517,
+    1518,
+    1519,
+    1521,
+    1522,
+    1525,
+    1526,
+    1527,
+    1528,
+    1529,
+    1533,
+    1534,
+    1547,
+    1552,
+    1556,
+    1564,
+    1572,
+    1579,
+    1582,
+    1588,
+    1591,
+    1592,
+    1595,
+    1601,
+    1602,
+    1609,
+    1612,
+    1619,
+    1622,
+    1626,
+    1629,
+    1632,
+    1635,
+    1636,
+    1637,
+    1642,
+    1643,
+    1644,
+    1645,
+    1647,
+    1648,
+    1649,
+    1653,
+    1659,
+    1662,
+    1673,
+    1677,
+    1683,
+    1687,
+    1691,
+    1696,
+    1697,
+    1698,
+    1701,
+    1702,
+    1706,
+    1707,
+    1708,
+    1709,
+    1713,
+    1718,
+    1721,
+    1727,
+    1734,
+    1736,
+    1737,
+    1738,
+    1741,
+    1744,
+    1748,
+    1752,
+    1757,
+    1762,
+    1763,
+    1767,
+    1768,
+    1769,
+    1772,
+    1775,
+    1776,
+    1777,
+    1778,
+    1781,
+    1783,
+    1788,
+    1791,
+    1792,
+    1793,
+    1794,
+    1796,
+    1797,
+    1798,
+    1799,
+    1803,
+    1804,
+    1805,
+    1806,
+    1807,
+    1809,
+    1811,
+    1812,
+    1814,
+    1815,
+    1816,
+    1821,
+    1822,
+    1824,
+    1825,
+    1828,
+    1832,
+    1833,
+    1834,
+    1836,
+    1842,
+    1846,
+    1848,
+    1849,
+    1853,
+    1856,
+    1857,
+    1858,
+    1859,
+    1861,
+    1862,
+    1863,
+    1864,
+    1865,
+    1866,
+    1867,
+    1868,
+    1871,
+    1872,
+    1873,
+    1877,
+    1885,
+    1895,
+    1897,
+    1898,
+    1905,
+    1908,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1921,
+    1922,
+    1923,
+    1924,
+    1926,
+    1927,
+    1928,
+    1929,
+    1932,
+    1933,
+    1936,
+    1938,
+    1939,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949,
+    1953,
+    1956,
+    1958,
+    1961,
+    1963,
+    1967,
+    1969,
+    1973,
+    1974,
+    1975,
+    1976,
+    1979,
+    1983,
+    1987,
+    1991,
+    1992,
+    1996,
+    2003,
+    2004,
+    2006,
+    2014
+  ],
+  "milestones": 40,
+  "sourceChangeYears": 472,
+  "actualPairs": 84155,
+  "referencePairs": 620,
+  "culturePairs": 15270,
+  "invalidSources": [
+    {
+      "name": "West African cereal farmers",
+      "source": "historical-basemaps",
+      "from": 900,
+      "to": 900,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Tuareg Nomadic Tribes",
+      "source": "historical-basemaps",
+      "from": 1200,
+      "to": 1200,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Savanna hunter-gatherers",
+      "source": "historical-basemaps",
+      "from": 1783,
+      "to": 1783,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Saharan pastoral nomads",
+      "source": "historical-basemaps",
+      "from": -323,
+      "to": -323,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Saharan pastoral nomads",
+      "source": "historical-basemaps",
+      "from": -323,
+      "to": -323,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Saharan pastoral nomads",
+      "source": "historical-basemaps",
+      "from": -300,
+      "to": -300,
+      "reason": "zero-area or invalid spherical geometry"
+    },
+    {
+      "name": "Saharan pastoral nomads",
+      "source": "historical-basemaps",
+      "from": -300,
+      "to": -300,
+      "reason": "zero-area or invalid spherical geometry"
+    }
+  ],
+  "references": {
+    "egypt": [
+      {
+        "year": -410,
+        "sourceYear": -383
+      },
+      {
+        "year": -404,
+        "sourceYear": -383
+      },
+      {
+        "year": -400,
+        "sourceYear": -383
+      },
+      {
+        "year": -390,
+        "sourceYear": -383
+      },
+      {
+        "year": -337,
+        "sourceYear": -338
+      },
+      {
+        "year": -335,
+        "sourceYear": -338
+      },
+      {
+        "year": -334,
+        "sourceYear": -338
+      },
+      {
+        "year": -333,
+        "sourceYear": -338
+      },
+      {
+        "year": -332,
+        "sourceYear": -338
+      }
+    ],
+    "seleucid": [
+      {
+        "year": -312,
+        "sourceYear": -307
+      },
+      {
+        "year": -310,
+        "sourceYear": -307
+      },
+      {
+        "year": -77,
+        "sourceYear": -78
+      },
+      {
+        "year": -70,
+        "sourceYear": -66
+      },
+      {
+        "year": -63,
+        "sourceYear": -64
+      }
+    ],
+    "macedon": [
+      {
+        "year": -291,
+        "sourceYear": -292
+      },
+      {
+        "year": -290,
+        "sourceYear": -292
+      },
+      {
+        "year": -284,
+        "sourceYear": -292
+      },
+      {
+        "year": -283,
+        "sourceYear": -292
+      },
+      {
+        "year": -281,
+        "sourceYear": -292
+      },
+      {
+        "year": -280,
+        "sourceYear": -292
+      },
+      {
+        "year": -279,
+        "sourceYear": -292
+      },
+      {
+        "year": -277,
+        "sourceYear": -292
+      },
+      {
+        "year": -275,
+        "sourceYear": -292
+      },
+      {
+        "year": -272,
+        "sourceYear": -292
+      },
+      {
+        "year": -271,
+        "sourceYear": -292
+      },
+      {
+        "year": -270,
+        "sourceYear": -292
+      },
+      {
+        "year": -264,
+        "sourceYear": -292
+      }
+    ],
+    "maya": [
+      {
+        "year": -277,
+        "sourceYear": -247
+      },
+      {
+        "year": -275,
+        "sourceYear": -247
+      },
+      {
+        "year": -272,
+        "sourceYear": -247
+      },
+      {
+        "year": -271,
+        "sourceYear": -247
+      },
+      {
+        "year": -270,
+        "sourceYear": -247
+      },
+      {
+        "year": -264,
+        "sourceYear": -247
+      },
+      {
+        "year": -260,
+        "sourceYear": -247
+      },
+      {
+        "year": -256,
+        "sourceYear": -247
+      },
+      {
+        "year": -255,
+        "sourceYear": -247
+      },
+      {
+        "year": -250,
+        "sourceYear": -247
+      },
+      {
+        "year": 1547,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1550,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1552,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1556,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1560,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1564,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1570,
+        "sourceYear": 1546
+      },
+      {
+        "year": 1572,
+        "sourceYear": 1546
+      }
+    ],
+    "parthia": [
+      {
+        "year": -247,
+        "sourceYear": -239
+      },
+      {
+        "year": -240,
+        "sourceYear": -239
+      }
+    ],
+    "xiongnu": [
+      {
+        "year": -209,
+        "sourceYear": -208
+      },
+      {
+        "year": 154,
+        "sourceYear": 153
+      },
+      {
+        "year": 155,
+        "sourceYear": 153
+      }
+    ],
+    "qin": [
+      {
+        "year": -208,
+        "sourceYear": -209
+      },
+      {
+        "year": -206,
+        "sourceYear": -209
+      }
+    ],
+    "goguryeo": [
+      {
+        "year": -37,
+        "sourceYear": -36
+      }
+    ],
+    "romanrep": [
+      {
+        "year": -31,
+        "sourceYear": -32
+      },
+      {
+        "year": -30,
+        "sourceYear": -32
+      },
+      {
+        "year": -29,
+        "sourceYear": -32
+      },
+      {
+        "year": -28,
+        "sourceYear": -32
+      },
+      {
+        "year": -27,
+        "sourceYear": -32
+      }
+    ],
+    "kushan": [
+      {
+        "year": 30,
+        "sourceYear": 43
+      },
+      {
+        "year": 40,
+        "sourceYear": 43
+      },
+      {
+        "year": 238,
+        "sourceYear": 237
+      },
+      {
+        "year": 240,
+        "sourceYear": 237
+      },
+      {
+        "year": 247,
+        "sourceYear": 237
+      },
+      {
+        "year": 250,
+        "sourceYear": 237
+      },
+      {
+        "year": 260,
+        "sourceYear": 237
+      },
+      {
+        "year": 261,
+        "sourceYear": 237
+      },
+      {
+        "year": 263,
+        "sourceYear": 237
+      },
+      {
+        "year": 265,
+        "sourceYear": 237
+      }
+    ],
+    "champa": [
+      {
+        "year": 192,
+        "sourceYear": 207
+      },
+      {
+        "year": 197,
+        "sourceYear": 207
+      },
+      {
+        "year": 200,
+        "sourceYear": 207
+      },
+      {
+        "year": 1206,
+        "sourceYear": 1205
+      },
+      {
+        "year": 1207,
+        "sourceYear": 1205
+      },
+      {
+        "year": 1210,
+        "sourceYear": 1205
+      },
+      {
+        "year": 1216,
+        "sourceYear": 1220
+      },
+      {
+        "year": 1653,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1659,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1660,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1662,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1670,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1673,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1677,
+        "sourceYear": 1652
+      },
+      {
+        "year": 1680,
+        "sourceYear": 1652
+      }
+    ],
+    "xianbei": [
+      {
+        "year": 238,
+        "sourceYear": 237
+      },
+      {
+        "year": 240,
+        "sourceYear": 237
+      },
+      {
+        "year": 247,
+        "sourceYear": 237
+      },
+      {
+        "year": 250,
+        "sourceYear": 237
+      },
+      {
+        "year": 260,
+        "sourceYear": 237
+      },
+      {
+        "year": 261,
+        "sourceYear": 237
+      },
+      {
+        "year": 263,
+        "sourceYear": 237
+      },
+      {
+        "year": 265,
+        "sourceYear": 237
+      }
+    ],
+    "baekje": [
+      {
+        "year": 320,
+        "sourceYear": 347
+      },
+      {
+        "year": 324,
+        "sourceYear": 347
+      },
+      {
+        "year": 330,
+        "sourceYear": 347
+      },
+      {
+        "year": 337,
+        "sourceYear": 347
+      },
+      {
+        "year": 338,
+        "sourceYear": 347
+      },
+      {
+        "year": 340,
+        "sourceYear": 347
+      }
+    ],
+    "gupta": [
+      {
+        "year": 320,
+        "sourceYear": 324
+      }
+    ],
+    "silla": [
+      {
+        "year": 350,
+        "sourceYear": 378
+      },
+      {
+        "year": 353,
+        "sourceYear": 378
+      },
+      {
+        "year": 358,
+        "sourceYear": 378
+      },
+      {
+        "year": 360,
+        "sourceYear": 378
+      },
+      {
+        "year": 367,
+        "sourceYear": 378
+      },
+      {
+        "year": 370,
+        "sourceYear": 378
+      },
+      {
+        "year": 371,
+        "sourceYear": 378
+      },
+      {
+        "year": 373,
+        "sourceYear": 378
+      }
+    ],
+    "nwei": [
+      {
+        "year": 386,
+        "sourceYear": 387
+      },
+      {
+        "year": 534,
+        "sourceYear": 533
+      }
+    ],
+    "romanemp": [
+      {
+        "year": 395,
+        "sourceYear": 394
+      }
+    ],
+    "gokturk": [
+      {
+        "year": 552,
+        "sourceYear": 555
+      },
+      {
+        "year": 587,
+        "sourceYear": 586
+      },
+      {
+        "year": 588,
+        "sourceYear": 586
+      },
+      {
+        "year": 589,
+        "sourceYear": 586
+      },
+      {
+        "year": 590,
+        "sourceYear": 586
+      },
+      {
+        "year": 592,
+        "sourceYear": 586
+      },
+      {
+        "year": 600,
+        "sourceYear": 586
+      },
+      {
+        "year": 601,
+        "sourceYear": 586
+      },
+      {
+        "year": 602,
+        "sourceYear": 586
+      },
+      {
+        "year": 606,
+        "sourceYear": 586
+      },
+      {
+        "year": 610,
+        "sourceYear": 586
+      },
+      {
+        "year": 612,
+        "sourceYear": 586
+      }
+    ],
+    "sui": [
+      {
+        "year": 581,
+        "sourceYear": 587
+      },
+      {
+        "year": 582,
+        "sourceYear": 587
+      },
+      {
+        "year": 589,
+        "sourceYear": 592
+      },
+      {
+        "year": 590,
+        "sourceYear": 592
+      }
+    ],
+    "tibet": [
+      {
+        "year": 600,
+        "sourceYear": 623
+      },
+      {
+        "year": 601,
+        "sourceYear": 623
+      },
+      {
+        "year": 602,
+        "sourceYear": 623
+      },
+      {
+        "year": 606,
+        "sourceYear": 623
+      },
+      {
+        "year": 610,
+        "sourceYear": 623
+      },
+      {
+        "year": 612,
+        "sourceYear": 623
+      },
+      {
+        "year": 617,
+        "sourceYear": 623
+      },
+      {
+        "year": 618,
+        "sourceYear": 623
+      },
+      {
+        "year": 619,
+        "sourceYear": 623
+      },
+      {
+        "year": 620,
+        "sourceYear": 623
+      }
+    ],
+    "vardhana": [
+      {
+        "year": 606,
+        "sourceYear": 612
+      },
+      {
+        "year": 610,
+        "sourceYear": 612
+      }
+    ],
+    "tang": [
+      {
+        "year": 618,
+        "sourceYear": 623
+      },
+      {
+        "year": 619,
+        "sourceYear": 623
+      },
+      {
+        "year": 620,
+        "sourceYear": 623
+      }
+    ],
+    "rashidun": [
+      {
+        "year": 632,
+        "sourceYear": 633
+      }
+    ],
+    "sasanian": [
+      {
+        "year": 644,
+        "sourceYear": 643
+      },
+      {
+        "year": 647,
+        "sourceYear": 643
+      },
+      {
+        "year": 648,
+        "sourceYear": 643
+      },
+      {
+        "year": 650,
+        "sourceYear": 643
+      },
+      {
+        "year": 651,
+        "sourceYear": 643
+      }
+    ],
+    "srivijaya": [
+      {
+        "year": 650,
+        "sourceYear": 674
+      },
+      {
+        "year": 651,
+        "sourceYear": 674
+      },
+      {
+        "year": 652,
+        "sourceYear": 674
+      },
+      {
+        "year": 656,
+        "sourceYear": 674
+      },
+      {
+        "year": 660,
+        "sourceYear": 674
+      },
+      {
+        "year": 661,
+        "sourceYear": 674
+      },
+      {
+        "year": 662,
+        "sourceYear": 674
+      },
+      {
+        "year": 666,
+        "sourceYear": 674
+      },
+      {
+        "year": 668,
+        "sourceYear": 674
+      },
+      {
+        "year": 669,
+        "sourceYear": 674
+      },
+      {
+        "year": 670,
+        "sourceYear": 674
+      },
+      {
+        "year": 1294,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1299,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1300,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1305,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1310,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1314,
+        "sourceYear": 1293
+      },
+      {
+        "year": 1320,
+        "sourceYear": 1293
+      }
+    ],
+    "frank": [
+      {
+        "year": 690,
+        "sourceYear": 718
+      },
+      {
+        "year": 692,
+        "sourceYear": 718
+      },
+      {
+        "year": 697,
+        "sourceYear": 718
+      },
+      {
+        "year": 698,
+        "sourceYear": 718
+      },
+      {
+        "year": 700,
+        "sourceYear": 718
+      },
+      {
+        "year": 705,
+        "sourceYear": 718
+      },
+      {
+        "year": 710,
+        "sourceYear": 718
+      }
+    ],
+    "venice": [
+      {
+        "year": 697,
+        "sourceYear": 705
+      },
+      {
+        "year": 698,
+        "sourceYear": 705
+      },
+      {
+        "year": 700,
+        "sourceYear": 705
+      },
+      {
+        "year": 1797,
+        "sourceYear": 1796
+      }
+    ],
+    "balhae": [
+      {
+        "year": 698,
+        "sourceYear": 705
+      },
+      {
+        "year": 700,
+        "sourceYear": 705
+      },
+      {
+        "year": 926,
+        "sourceYear": 925
+      }
+    ],
+    "uyghur": [
+      {
+        "year": 744,
+        "sourceYear": 750
+      },
+      {
+        "year": 745,
+        "sourceYear": 750
+      },
+      {
+        "year": 749,
+        "sourceYear": 750
+      }
+    ],
+    "cordoba": [
+      {
+        "year": 756,
+        "sourceYear": 757
+      }
+    ],
+    "ghana": [
+      {
+        "year": 763,
+        "sourceYear": 793
+      },
+      {
+        "year": 768,
+        "sourceYear": 793
+      },
+      {
+        "year": 770,
+        "sourceYear": 793
+      },
+      {
+        "year": 772,
+        "sourceYear": 793
+      },
+      {
+        "year": 775,
+        "sourceYear": 793
+      },
+      {
+        "year": 778,
+        "sourceYear": 793
+      },
+      {
+        "year": 780,
+        "sourceYear": 793
+      },
+      {
+        "year": 783,
+        "sourceYear": 793
+      },
+      {
+        "year": 788,
+        "sourceYear": 793
+      },
+      {
+        "year": 790,
+        "sourceYear": 793
+      }
+    ],
+    "westfrank": [
+      {
+        "year": 843,
+        "sourceYear": 850
+      },
+      {
+        "year": 844,
+        "sourceYear": 850
+      }
+    ],
+    "eastfrank": [
+      {
+        "year": 843,
+        "sourceYear": 850
+      },
+      {
+        "year": 844,
+        "sourceYear": 850
+      },
+      {
+        "year": 882,
+        "sourceYear": 881
+      },
+      {
+        "year": 884,
+        "sourceYear": 881
+      },
+      {
+        "year": 886,
+        "sourceYear": 887
+      },
+      {
+        "year": 911,
+        "sourceYear": 910
+      },
+      {
+        "year": 916,
+        "sourceYear": 910
+      },
+      {
+        "year": 918,
+        "sourceYear": 910
+      },
+      {
+        "year": 920,
+        "sourceYear": 910
+      },
+      {
+        "year": 922,
+        "sourceYear": 910
+      },
+      {
+        "year": 926,
+        "sourceYear": 910
+      },
+      {
+        "year": 927,
+        "sourceYear": 910
+      },
+      {
+        "year": 930,
+        "sourceYear": 910
+      },
+      {
+        "year": 935,
+        "sourceYear": 910
+      },
+      {
+        "year": 936,
+        "sourceYear": 910
+      },
+      {
+        "year": 940,
+        "sourceYear": 910
+      }
+    ],
+    "fatimid": [
+      {
+        "year": 909,
+        "sourceYear": 911
+      },
+      {
+        "year": 910,
+        "sourceYear": 911
+      }
+    ],
+    "goryeo": [
+      {
+        "year": 918,
+        "sourceYear": 922
+      },
+      {
+        "year": 920,
+        "sourceYear": 922
+      },
+      {
+        "year": 1260,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1261,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1270,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1271,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1259
+      },
+      {
+        "year": 1333,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1335,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1336,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1340,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1344,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1350,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1351,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1352,
+        "sourceYear": 1363
+      },
+      {
+        "year": 1360,
+        "sourceYear": 1363
+      }
+    ],
+    "england": [
+      {
+        "year": 927,
+        "sourceYear": 936
+      },
+      {
+        "year": 930,
+        "sourceYear": 936
+      },
+      {
+        "year": 935,
+        "sourceYear": 936
+      },
+      {
+        "year": 1018,
+        "sourceYear": 1017
+      },
+      {
+        "year": 1020,
+        "sourceYear": 1017
+      },
+      {
+        "year": 1028,
+        "sourceYear": 1017
+      },
+      {
+        "year": 1030,
+        "sourceYear": 1017
+      },
+      {
+        "year": 1031,
+        "sourceYear": 1017
+      },
+      {
+        "year": 1032,
+        "sourceYear": 1046
+      },
+      {
+        "year": 1034,
+        "sourceYear": 1046
+      },
+      {
+        "year": 1038,
+        "sourceYear": 1046
+      },
+      {
+        "year": 1040,
+        "sourceYear": 1046
+      },
+      {
+        "year": 1044,
+        "sourceYear": 1046
+      }
+    ],
+    "song": [
+      {
+        "year": 960,
+        "sourceYear": 961
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1278
+      }
+    ],
+    "abbasid": [
+      {
+        "year": 970,
+        "sourceYear": 969
+      },
+      {
+        "year": 980,
+        "sourceYear": 969
+      },
+      {
+        "year": 987,
+        "sourceYear": 969
+      },
+      {
+        "year": 988,
+        "sourceYear": 969
+      },
+      {
+        "year": 990,
+        "sourceYear": 969
+      },
+      {
+        "year": 1172,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1177,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1180,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1188,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1190,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1192,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1194,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1195,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1200,
+        "sourceYear": 1202
+      },
+      {
+        "year": 1201,
+        "sourceYear": 1202
+      }
+    ],
+    "franceking": [
+      {
+        "year": 987,
+        "sourceYear": 990
+      },
+      {
+        "year": 988,
+        "sourceYear": 990
+      },
+      {
+        "year": 1792,
+        "sourceYear": 1791
+      }
+    ],
+    "seljuk": [
+      {
+        "year": 1040,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1044,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1046,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1050,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1054,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1056,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1060,
+        "sourceYear": 1039
+      },
+      {
+        "year": 1066,
+        "sourceYear": 1039
+      }
+    ],
+    "jurchenjin": [
+      {
+        "year": 1115,
+        "sourceYear": 1126
+      },
+      {
+        "year": 1120,
+        "sourceYear": 1126
+      },
+      {
+        "year": 1125,
+        "sourceYear": 1126
+      }
+    ],
+    "portugal": [
+      {
+        "year": 1139,
+        "sourceYear": 1147
+      },
+      {
+        "year": 1140,
+        "sourceYear": 1147
+      },
+      {
+        "year": 1582,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1588,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1590,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1591,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1592,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1595,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1600,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1601,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1602,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1609,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1610,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1612,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1619,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1620,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1622,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1626,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1629,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1630,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1632,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1635,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1636,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1637,
+        "sourceYear": 1640
+      }
+    ],
+    "poland": [
+      {
+        "year": 1139,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1140,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1147,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1150,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1152,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1160,
+        "sourceYear": 1138
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1290,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1293,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1294,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1299,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1300,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1450,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1452,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1453,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1454,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1459,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1460,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1463,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1464,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1468,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1470,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1475,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1479,
+        "sourceYear": 1449
+      },
+      {
+        "year": 1948,
+        "sourceYear": 1953
+      },
+      {
+        "year": 1949,
+        "sourceYear": 1953
+      },
+      {
+        "year": 1950,
+        "sourceYear": 1953
+      }
+    ],
+    "ayyubid": [
+      {
+        "year": 1171,
+        "sourceYear": 1177
+      },
+      {
+        "year": 1172,
+        "sourceYear": 1177
+      },
+      {
+        "year": 1250,
+        "sourceYear": 1249
+      },
+      {
+        "year": 1256,
+        "sourceYear": 1249
+      },
+      {
+        "year": 1258,
+        "sourceYear": 1249
+      },
+      {
+        "year": 1259,
+        "sourceYear": 1249
+      },
+      {
+        "year": 1260,
+        "sourceYear": 1249
+      }
+    ],
+    "delhi": [
+      {
+        "year": 1206,
+        "sourceYear": 1210
+      },
+      {
+        "year": 1207,
+        "sourceYear": 1210
+      }
+    ],
+    "byzantine": [
+      {
+        "year": 1227,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1230,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1234,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1235,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1236,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1240,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1241,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1250,
+        "sourceYear": 1226
+      },
+      {
+        "year": 1256,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1258,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1259,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1260,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1261,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1270,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1271,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1279
+      },
+      {
+        "year": 1402,
+        "sourceYear": 1401
+      }
+    ],
+    "mali": [
+      {
+        "year": 1235,
+        "sourceYear": 1236
+      }
+    ],
+    "chagatai": [
+      {
+        "year": 1270,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1271,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1290,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1293,
+        "sourceYear": 1294
+      }
+    ],
+    "kipchak": [
+      {
+        "year": 1270,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1271,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1290,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1293,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1363,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1367,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1368,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1369,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1370,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1371,
+        "sourceYear": 1362
+      },
+      {
+        "year": 1375,
+        "sourceYear": 1385
+      },
+      {
+        "year": 1380,
+        "sourceYear": 1385
+      },
+      {
+        "year": 1502,
+        "sourceYear": 1501
+      }
+    ],
+    "ilkhan": [
+      {
+        "year": 1270,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1271,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1290,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1293,
+        "sourceYear": 1294
+      }
+    ],
+    "yuan": [
+      {
+        "year": 1271,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1272,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1278,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1279,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1280,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1285,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1287,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1288,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1290,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1293,
+        "sourceYear": 1294
+      }
+    ],
+    "majapahit": [
+      {
+        "year": 1293,
+        "sourceYear": 1294
+      },
+      {
+        "year": 1519,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1520,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1521,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1522,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1525,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1526,
+        "sourceYear": 1518
+      },
+      {
+        "year": 1527,
+        "sourceYear": 1518
+      }
+    ],
+    "ottoman": [
+      {
+        "year": 1299,
+        "sourceYear": 1305
+      },
+      {
+        "year": 1300,
+        "sourceYear": 1305
+      }
+    ],
+    "ayutthaya": [
+      {
+        "year": 1351,
+        "sourceYear": 1352
+      },
+      {
+        "year": 1572,
+        "sourceYear": 1571
+      },
+      {
+        "year": 1579,
+        "sourceYear": 1571
+      },
+      {
+        "year": 1580,
+        "sourceYear": 1588
+      },
+      {
+        "year": 1582,
+        "sourceYear": 1588
+      }
+    ],
+    "ming": [
+      {
+        "year": 1368,
+        "sourceYear": 1375
+      },
+      {
+        "year": 1369,
+        "sourceYear": 1375
+      },
+      {
+        "year": 1370,
+        "sourceYear": 1375
+      },
+      {
+        "year": 1371,
+        "sourceYear": 1375
+      }
+    ],
+    "timur": [
+      {
+        "year": 1370,
+        "sourceYear": 1375
+      },
+      {
+        "year": 1371,
+        "sourceYear": 1375
+      }
+    ],
+    "joseon": [
+      {
+        "year": 1392,
+        "sourceYear": 1395
+      },
+      {
+        "year": 1393,
+        "sourceYear": 1395
+      }
+    ],
+    "aztec": [
+      {
+        "year": 1428,
+        "sourceYear": 1429
+      },
+      {
+        "year": 1521,
+        "sourceYear": 1520
+      }
+    ],
+    "malacca": [
+      {
+        "year": 1429,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1430,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1431,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1432,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1438,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1440,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1450,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1452,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1453,
+        "sourceYear": 1459
+      },
+      {
+        "year": 1454,
+        "sourceYear": 1459
+      }
+    ],
+    "inca": [
+      {
+        "year": 1438,
+        "sourceYear": 1440
+      }
+    ],
+    "spain": [
+      {
+        "year": 1487,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1490,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1491,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1492,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1493,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1497,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1500,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1501,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1502,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1503,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1507,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1508,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1510,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1511,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1512,
+        "sourceYear": 1516
+      },
+      {
+        "year": 1582,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1588,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1590,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1591,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1592,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1595,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1600,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1601,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1602,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1609,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1610,
+        "sourceYear": 1581
+      },
+      {
+        "year": 1612,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1619,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1620,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1622,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1626,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1629,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1630,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1632,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1635,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1636,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1637,
+        "sourceYear": 1640
+      },
+      {
+        "year": 1873,
+        "sourceYear": 1872
+      },
+      {
+        "year": 1932,
+        "sourceYear": 1931
+      },
+      {
+        "year": 1933,
+        "sourceYear": 1931
+      },
+      {
+        "year": 1936,
+        "sourceYear": 1931
+      },
+      {
+        "year": 1973,
+        "sourceYear": 1976
+      },
+      {
+        "year": 1974,
+        "sourceYear": 1976
+      },
+      {
+        "year": 1975,
+        "sourceYear": 1976
+      }
+    ],
+    "daiviet": [
+      {
+        "year": 1500,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1501,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1502,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1503,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1507,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1508,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1510,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1511,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1512,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1516,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1517,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1518,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1519,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1520,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1521,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1522,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1525,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1526,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1527,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1528,
+        "sourceYear": 1529
+      }
+    ],
+    "safavid": [
+      {
+        "year": 1501,
+        "sourceYear": 1502
+      }
+    ],
+    "mughal": [
+      {
+        "year": 1526,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1527,
+        "sourceYear": 1529
+      },
+      {
+        "year": 1528,
+        "sourceYear": 1529
+      }
+    ],
+    "qing": [
+      {
+        "year": 1636,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1637,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1640,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1642,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1643,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1644,
+        "sourceYear": 1645
+      },
+      {
+        "year": 1912,
+        "sourceYear": 1911
+      }
+    ],
+    "prussia": [
+      {
+        "year": 1701,
+        "sourceYear": 1702
+      },
+      {
+        "year": 1809,
+        "sourceYear": 1808
+      },
+      {
+        "year": 1810,
+        "sourceYear": 1808
+      },
+      {
+        "year": 1811,
+        "sourceYear": 1808
+      },
+      {
+        "year": 1812,
+        "sourceYear": 1814
+      },
+      {
+        "year": 1848,
+        "sourceYear": 1847
+      },
+      {
+        "year": 1849,
+        "sourceYear": 1847
+      },
+      {
+        "year": 1850,
+        "sourceYear": 1847
+      },
+      {
+        "year": 1858,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1859,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1860,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1861,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1862,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1864,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1865,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1866,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1867,
+        "sourceYear": 1863
+      },
+      {
+        "year": 1868,
+        "sourceYear": 1863
+      }
+    ],
+    "france": [
+      {
+        "year": 1796,
+        "sourceYear": 1795
+      },
+      {
+        "year": 1797,
+        "sourceYear": 1795
+      },
+      {
+        "year": 1798,
+        "sourceYear": 1795
+      },
+      {
+        "year": 1799,
+        "sourceYear": 1795
+      },
+      {
+        "year": 1800,
+        "sourceYear": 1795
+      },
+      {
+        "year": 1846,
+        "sourceYear": 1848
+      },
+      {
+        "year": 1853,
+        "sourceYear": 1852
+      },
+      {
+        "year": 1856,
+        "sourceYear": 1852
+      },
+      {
+        "year": 1857,
+        "sourceYear": 1852
+      },
+      {
+        "year": 1866,
+        "sourceYear": 1871
+      },
+      {
+        "year": 1867,
+        "sourceYear": 1871
+      },
+      {
+        "year": 1868,
+        "sourceYear": 1871
+      },
+      {
+        "year": 1870,
+        "sourceYear": 1871
+      },
+      {
+        "year": 1940,
+        "sourceYear": 1939
+      },
+      {
+        "year": 1941,
+        "sourceYear": 1939
+      },
+      {
+        "year": 1942,
+        "sourceYear": 1939
+      },
+      {
+        "year": 1943,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1944,
+        "sourceYear": 1945
+      }
+    ],
+    "austria": [
+      {
+        "year": 1804,
+        "sourceYear": 1806
+      },
+      {
+        "year": 1805,
+        "sourceYear": 1806
+      }
+    ],
+    "zulu": [
+      {
+        "year": 1816,
+        "sourceYear": 1820
+      }
+    ],
+    "britishindia": [
+      {
+        "year": 1858,
+        "sourceYear": 1859
+      }
+    ],
+    "italy": [
+      {
+        "year": 1861,
+        "sourceYear": 1862
+      }
+    ],
+    "japan": [
+      {
+        "year": 1863,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1864,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1865,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1866,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1867,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1946,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1947,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1948,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1949,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1950,
+        "sourceYear": 1953
+      }
+    ],
+    "mexico": [
+      {
+        "year": 1863,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1864,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1865,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1866,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1867,
+        "sourceYear": 1868
+      },
+      {
+        "year": 1913,
+        "sourceYear": 1912
+      },
+      {
+        "year": 1914,
+        "sourceYear": 1912
+      },
+      {
+        "year": 1915,
+        "sourceYear": 1912
+      },
+      {
+        "year": 1916,
+        "sourceYear": 1912
+      },
+      {
+        "year": 1917,
+        "sourceYear": 1920
+      },
+      {
+        "year": 1918,
+        "sourceYear": 1920
+      },
+      {
+        "year": 1919,
+        "sourceYear": 1920
+      }
+    ],
+    "austriahungary": [
+      {
+        "year": 1867,
+        "sourceYear": 1868
+      }
+    ],
+    "brazil": [
+      {
+        "year": 1890,
+        "sourceYear": 1889
+      }
+    ],
+    "roc": [
+      {
+        "year": 1916,
+        "sourceYear": 1915
+      },
+      {
+        "year": 1917,
+        "sourceYear": 1915
+      },
+      {
+        "year": 1918,
+        "sourceYear": 1915
+      },
+      {
+        "year": 1919,
+        "sourceYear": 1915
+      },
+      {
+        "year": 1920,
+        "sourceYear": 1915
+      },
+      {
+        "year": 1926,
+        "sourceYear": 1930
+      },
+      {
+        "year": 1927,
+        "sourceYear": 1930
+      },
+      {
+        "year": 1928,
+        "sourceYear": 1930
+      },
+      {
+        "year": 1929,
+        "sourceYear": 1930
+      }
+    ],
+    "russianemp": [
+      {
+        "year": 1917,
+        "sourceYear": 1916
+      }
+    ],
+    "yugoslavia": [
+      {
+        "year": 1918,
+        "sourceYear": 1919
+      },
+      {
+        "year": 1941,
+        "sourceYear": 1940
+      },
+      {
+        "year": 1942,
+        "sourceYear": 1940
+      },
+      {
+        "year": 1943,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1944,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1946,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1947,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1948,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1949,
+        "sourceYear": 1945
+      },
+      {
+        "year": 1950,
+        "sourceYear": 1945
+      }
+    ],
+    "nazigermany": [
+      {
+        "year": 1933,
+        "sourceYear": 1936
+      },
+      {
+        "year": 1945,
+        "sourceYear": 1944
+      }
+    ],
+    "ethiopia": [
+      {
+        "year": 1938,
+        "sourceYear": 1942
+      },
+      {
+        "year": 1939,
+        "sourceYear": 1942
+      },
+      {
+        "year": 1940,
+        "sourceYear": 1942
+      },
+      {
+        "year": 1941,
+        "sourceYear": 1942
+      }
+    ],
+    "prc": [
+      {
+        "year": 1949,
+        "sourceYear": 1950
+      }
+    ],
+    "britain": [
+      {
+        "year": 2000,
+        "sourceYear": 1999
+      },
+      {
+        "year": 2003,
+        "sourceYear": 1999
+      },
+      {
+        "year": 2004,
+        "sourceYear": 1999
+      }
+    ]
+  },
+  "sui581": {
+    "year": 581,
+    "sourceYear": 587
+  },
+  "tang618": {
+    "year": 618,
+    "sourceYear": 623
+  },
+  "limits": [
+    "Reference polygons are not reconstructions for the selected year.",
+    "Culture reference areas are not states and do not establish continued habitation.",
+    "Sui 618 uses the post-transition phase; Northern Zhou is suppressed from 581.",
+    "OHM supplemental snapshots are carried only near previously screened samples.",
+    "Treaty-date shapes are source interpretations, not independent verification of every treaty clause."
+  ]
+}
